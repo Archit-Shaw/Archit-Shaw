@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Archit Shaw</h1>
-<h3 align="center">Full Stack MERN Developer | Java Enthusiast | DSA Enthusiast </h3>
+<h3 align="center">Full Stack MERN Developer | Java Backend | DSA Enthusiast </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
