@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack MERN Developer | Java Backend | DSA Enthusiast </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="typing.gif" width="300" />
 </p>
 
 
@@ -13,7 +13,7 @@
 
 - 💻 Full Stack Developer & Java Developer  
 - 🧠 Solved **1200+ DSA** problems on platforms like LeetCode, GFG  
-- 🔭 Currently working as a **Technical Intern** at **Arcoiris Logics**  
+- 🔭 Currently working as a **Software Developer** at **Arcoiris Logics**  
 - 💼 Previously: Full Stack Developer Intern at **EY GDS** in collaboration with **AICTE**  
 <p align="left">
   <a href="https://www.linkedin.com/in/archit-shaw-b63bb424b/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
